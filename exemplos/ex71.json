@@ -1,0 +1,3 @@
+[{"pid": 1, "chegada": 0, "paginas": 0, "bursts": [{"cpu": 5}]},
+ {"pid": 2, "chegada": 0, "paginas": 0, "bursts": [{"cpu": 3}]},
+ {"pid": 3, "chegada": 2, "paginas": 0, "bursts": [{"cpu": 2}]}]
