@@ -20,7 +20,6 @@ o `gcc`, sem instalar nada. Os gráficos são gerados em Python.
 ## Como rodar (Codespaces ou qualquer Linux)
 
 ```bash
-cd m2
 make                                   # compila ./simulador
 make teste                             # valida contra os exemplos do enunciado
 ```
